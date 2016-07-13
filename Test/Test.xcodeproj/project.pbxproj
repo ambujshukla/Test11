@@ -21,6 +21,8 @@
 		313BE1251D36C318001B9A41 /* Simulator Screen Shot 03-Jul-2016, 5.55.35 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 313BE1241D36C318001B9A41 /* Simulator Screen Shot 03-Jul-2016, 5.55.35 PM.png */; };
 		313BE1271D36C3AC001B9A41 /* Simulator Screen Shot 03-Jul-2016, 5.55.47 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 313BE1261D36C3AC001B9A41 /* Simulator Screen Shot 03-Jul-2016, 5.55.47 PM.png */; };
 		313BE1291D36C454001B9A41 /* url.html in Resources */ = {isa = PBXBuildFile; fileRef = 313BE1281D36C454001B9A41 /* url.html */; };
+		313BE12B1D36C51D001B9A41 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 313BE12A1D36C51D001B9A41 /* 1.png */; };
+		313BE12D1D36C634001B9A41 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 313BE12C1D36C634001B9A41 /* 2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +42,8 @@
 		313BE1241D36C318001B9A41 /* Simulator Screen Shot 03-Jul-2016, 5.55.35 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot 03-Jul-2016, 5.55.35 PM.png"; sourceTree = "<group>"; };
 		313BE1261D36C3AC001B9A41 /* Simulator Screen Shot 03-Jul-2016, 5.55.47 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot 03-Jul-2016, 5.55.47 PM.png"; sourceTree = "<group>"; };
 		313BE1281D36C454001B9A41 /* url.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = url.html; sourceTree = "<group>"; };
+		313BE12A1D36C51D001B9A41 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		313BE12C1D36C634001B9A41 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +77,8 @@
 		313BE1051D36B96F001B9A41 /* Test */ = {
 			isa = PBXGroup;
 			children = (
+				313BE12C1D36C634001B9A41 /* 2.png */,
+				313BE12A1D36C51D001B9A41 /* 1.png */,
 				313BE1281D36C454001B9A41 /* url.html */,
 				313BE1261D36C3AC001B9A41 /* Simulator Screen Shot 03-Jul-2016, 5.55.47 PM.png */,
 				313BE1221D36C13B001B9A41 /* Simulator Screen Shot 03-Jul-2016, 5.55.58 PM.png */,
@@ -151,9 +157,11 @@
 			files = (
 				313BE11D1D36BAFE001B9A41 /* Simulator Screen Shot 03-Jul-2016, 5.56.57 PM.png in Resources */,
 				313BE1111D36B96F001B9A41 /* LaunchScreen.storyboard in Resources */,
+				313BE12D1D36C634001B9A41 /* 2.png in Resources */,
 				313BE1291D36C454001B9A41 /* url.html in Resources */,
 				313BE10E1D36B96F001B9A41 /* Assets.xcassets in Resources */,
 				313BE1271D36C3AC001B9A41 /* Simulator Screen Shot 03-Jul-2016, 5.55.47 PM.png in Resources */,
+				313BE12B1D36C51D001B9A41 /* 1.png in Resources */,
 				313BE10C1D36B96F001B9A41 /* Main.storyboard in Resources */,
 				313BE1231D36C13B001B9A41 /* Simulator Screen Shot 03-Jul-2016, 5.55.58 PM.png in Resources */,
 				313BE1251D36C318001B9A41 /* Simulator Screen Shot 03-Jul-2016, 5.55.35 PM.png in Resources */,
