@@ -23,6 +23,7 @@
 		313BE1291D36C454001B9A41 /* url.html in Resources */ = {isa = PBXBuildFile; fileRef = 313BE1281D36C454001B9A41 /* url.html */; };
 		313BE12B1D36C51D001B9A41 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 313BE12A1D36C51D001B9A41 /* 1.png */; };
 		313BE12D1D36C634001B9A41 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 313BE12C1D36C634001B9A41 /* 2.png */; };
+		31BEC0681D373CED009BB509 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 31BEC0671D373CED009BB509 /* 3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		313BE1281D36C454001B9A41 /* url.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = url.html; sourceTree = "<group>"; };
 		313BE12A1D36C51D001B9A41 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 		313BE12C1D36C634001B9A41 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		31BEC0671D373CED009BB509 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		313BE1051D36B96F001B9A41 /* Test */ = {
 			isa = PBXGroup;
 			children = (
+				31BEC0661D373CE3009BB509 /* Images */,
 				313BE12C1D36C634001B9A41 /* 2.png */,
 				313BE12A1D36C51D001B9A41 /* 1.png */,
 				313BE1281D36C454001B9A41 /* url.html */,
@@ -95,6 +98,14 @@
 				313BE1121D36B96F001B9A41 /* Info.plist */,
 			);
 			path = Test;
+			sourceTree = "<group>";
+		};
+		31BEC0661D373CE3009BB509 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				31BEC0671D373CED009BB509 /* 3.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -155,6 +166,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31BEC0681D373CED009BB509 /* 3.png in Resources */,
 				313BE11D1D36BAFE001B9A41 /* Simulator Screen Shot 03-Jul-2016, 5.56.57 PM.png in Resources */,
 				313BE1111D36B96F001B9A41 /* LaunchScreen.storyboard in Resources */,
 				313BE12D1D36C634001B9A41 /* 2.png in Resources */,
@@ -330,6 +342,7 @@
 				313BE1171D36B96F001B9A41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
